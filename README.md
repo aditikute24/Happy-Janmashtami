@@ -31,4 +31,4 @@ To run this project locally, follow these steps:
 ### **Thanks for checking out my project!** 🙏
 
 ---
-### Show some ❤️ by starring some of the repositories!😂
+### Show some ❤️ by starring the repository!!😂
